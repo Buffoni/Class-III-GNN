@@ -17,7 +17,7 @@ This project implements a Graph Neural Network (GNN) to analyze patient data. Th
 
 1. Clone or download the repository:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/Buffoni/Class-III-GNN.git
     ```
 
 2. Install the required packages:

@@ -1,0 +1,9 @@
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+torch_geometric==2.6.1
+matplotlib==3.10.1
+pandas
+openpyxl
+PyQt5
+pyinstaller

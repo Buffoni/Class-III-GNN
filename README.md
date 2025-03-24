@@ -1,4 +1,4 @@
-![Project Logo](./assets/logo.png) 
+![Project Logo](logo.png) 
 # Graph Neural Network for Class III Malocclusion Prediction
 
 ## Overview

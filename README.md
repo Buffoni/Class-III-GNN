@@ -38,7 +38,7 @@ The script plots the predictions of the patient provided in and saves them as an
 One can also create an executable file using PyInstaller to run the GUI without needing Python installed. To do this, run:
 
 ```sh
-pyinstaller --onefile --windowed --add-data "inference.py:." --add-data "assets/logo.png:assets" --add-data "utils.py:." main.py
+pyinstaller --onefile --windowed --add-data "inference.py:." --add-data "utils.py:." main.py
 ```
 
 ### Parsing Excel Files

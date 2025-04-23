@@ -55,12 +55,12 @@ This project is licensed under the MIT License.
 If you use this code in your research, please cite the following paper:
 
 ```
-@article{your_paper,
-  title={Graph Neural Network for Class III Malocclusion Prediction},
-  author={Your Name},
-  journal={Journal of Orthodontics},
-  year={2023},
-  volume={1},
-  pages={1-10}
+@article{learningmalocclusion,
+  title={Machine Learning-Based model for predicting short- and long-term growth in untreated Class III malocclusion},
+  author={Maria Denisa Statie, Michele Nieri, Valentina Rutili, Lorenzo Buffoni, Lorenzo Chicchi, Pietro Auconi, James A. McNamara, Lorenzo Franchi},
+  journal={TBD},
+  year={2025},
+  volume={TBD},
+  pages={TBD}
 }
 ```

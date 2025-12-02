@@ -14,7 +14,7 @@ st.set_page_config(page_title="AI prediction for Class III")
 # Header: show logo at left and title + caption at right
 col_logo, col_title = st.columns([1, 5])
 with col_logo:
-    if os.path.exists("assets/logo.png"):
+    if os.path.exists("logo.png"):
         st.image("logo.png", width=100)
 with col_title:
     st.title("AI prediction for Class III")

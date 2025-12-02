@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project implements a Graph Neural Network (GNN) to analyze patient data. The GNN is built using PyTorch and PyTorch Geometric libraries. The project includes utilities for parsing patient data from Excel files, training the GNN model, and outputting predictions to Excel files.
+This project implements a Graph Neural Network (GNN) to predict the evolution of Class III Malocclusion from measurements of craniofacial landmarks in patients. The GNN is built using PyTorch and PyTorch Geometric libraries. The project includes utilities for parsing patient data from Excel files, training the GNN model, and outputting predictions to Excel files.
 
 The pretrained model can be accessed online with an interactive GUI via Streamlit [https://class3gnn.streamlit.app/](https://class3gnn.streamlit.app/)
 

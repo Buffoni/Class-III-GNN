@@ -5,6 +5,8 @@
 
 This project implements a Graph Neural Network (GNN) to analyze patient data. The GNN is built using PyTorch and PyTorch Geometric libraries. The project includes utilities for parsing patient data from Excel files, training the GNN model, and outputting predictions to Excel files.
 
+The pretrained model can be accessed online with an interactive GUI via Streamlit [https://class3gnn.streamlit.app/](https://class3gnn.streamlit.app/)
+
 ## Project Structure
 
 - `utils.py`: Contains utility functions for parsing Excel files and preparing data for the GNN.
@@ -13,7 +15,7 @@ This project implements a Graph Neural Network (GNN) to analyze patient data. Th
 - `test.py`: Contains the script to process in bulk the predictions of several patients using the pretrained model.
 - `train.py`: Contains the script to train the GNN model given some training data.
 
-## Installation
+## Local install
 
 1. Clone or download the repository:
     ```sh

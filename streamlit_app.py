@@ -15,10 +15,10 @@ st.set_page_config(page_title="AI prediction for Class III")
 col_logo, col_title = st.columns([1, 5])
 with col_logo:
     if os.path.exists("assets/logo.png"):
-        st.image("assets/logo.png", width=100)
+        st.image("logo.png", width=100)
 with col_title:
     st.title("AI prediction for Class III")
-    st.caption("Upload an xlsx/xls file following the template liked below. The app will process it with a pretrained Graph Neural Network and show the prediction plot. Full code openly available on [GitHub](https://github.com/Buffoni/Class-III-GNN)")
+    st.caption("Upload an xlsx/xls file following the template linked below. The app will process it with a pretrained Graph Neural Network and show the prediction plot. Full code openly available on [GitHub](https://github.com/Buffoni/Class-III-GNN)")
 
 # Replace with your actual template URL
 TEMPLATE_URL = "https://raw.githubusercontent.com/Buffoni/Class-III-GNN/main/test_data_sample.xlsx"
